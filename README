@@ -1,0 +1,22 @@
+Full Name: Jasper Wu
+Student ID: 2339715
+Chapman email: jaswu@chapman.edu
+Course number and section: 350-01
+Assignment Number: 2
+
+1.) List of source files submitted
+  a. main.cpp
+  b. assign2.cpp
+  c. assign2.h
+  d. Makefile
+  e. fileio.h
+  f. fileio.cpp
+
+2.) Description of any known compile/runtime errors, or bugs
+  a. No known compile/runtime errors, or bugs
+
+3.) References used to complete the assignment
+- reference on how to create dynamic 2d array
+  https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new
+- reference on how to pause program
+  https://stackoverflow.com/questions/24776262/pause-console-in-c-program
